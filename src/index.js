@@ -45,16 +45,19 @@ const createDogRow = dog => {
 // Populate the edit dog form with dog instance
 const populateEditForm = dog => {
 	const editDogForm = document.getElementById('dog-form');
+	editDogForm.reset();
 	
 	// Set the value of text fields to match data from dog instance
 	editDogForm.name.value = dog.name;
 	editDogForm.breed.value = dog.breed;
 	editDogForm.sex.value = dog.sex;
 
+
 	// Create submit event listener
 	editDogForm.addEventListener('submit', e => {
 		e.preventDefault();
 		
+
 		// Update instance of dog with the data from form.
 		dog.name = editDogForm.name.value;
 		dog,breed = editDogForm.breed.value;
@@ -72,10 +75,11 @@ const populateEditForm = dog => {
 		fetch(url, data)
 		.then( res => res.json() )
 		.then(() => {
+			// Clear the form
 			editDogForm.reset()
 			getDogs()
-		})
-	});
+		});
+	}, {once: true});
 };
 
 

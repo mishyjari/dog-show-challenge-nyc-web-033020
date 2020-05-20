@@ -2,63 +2,63 @@
   "dogs": [
     {
       "id": 1,
-      "name": "Baby",
+      "name": "Cakes",
       "breed": "Scottish Deerhound",
       "sex": "male"
     },
     {
       "id": 2,
-      "name": "Teddy",
+      "name": "345",
       "breed": "Rhodesian Ridgeback",
       "sex": "female"
     },
     {
       "id": 3,
-      "name": "Snickers",
+      "name": "345",
       "breed": "Dachshund",
       "sex": "female"
     },
     {
       "id": 4,
-      "name": "Harvey",
+      "name": "red",
       "breed": "Irish Spaniel",
       "sex": "male"
     },
     {
       "id": 5,
-      "name": "Grace",
+      "name": "Meow",
       "breed": "Miniature Pinscher",
       "sex": "female"
     },
     {
       "id": 6,
-      "name": "Oreo",
+      "name": "dwadawweg",
       "breed": "English Springer",
-      "sex": "male"
+      "sex": "female"
     },
     {
       "id": 7,
-      "name": "Corruptes",
+      "name": "Yelloe",
       "breed": "Labrador",
       "sex": "female"
     },
     {
       "id": 8,
-      "name": "Chloe",
+      "name": "Tedfdgdfg",
       "breed": "Dandie Terrier",
-      "sex": "male"
+      "sex": "female"
     },
     {
       "id": 9,
-      "name": "Shelby",
+      "name": "tree",
       "breed": "Kuvasz",
-      "sex": "male"
+      "sex": "female"
     },
     {
       "id": 10,
-      "name": "Patches",
+      "name": "dwadawweg",
       "breed": "Dingo",
-      "sex": "male"
+      "sex": "female"
     },
     {
       "id": 11,
@@ -68,13 +68,13 @@
     },
     {
       "id": 12,
-      "name": "Misty",
+      "name": "verrt",
       "breed": "Patterdale Terrier",
-      "sex": "female"
+      "sex": "None"
     },
     {
       "id": 13,
-      "name": "Lady",
+      "name": "Lgrteee",
       "breed": "Mexicanhairless",
       "sex": "female"
     },
@@ -104,9 +104,9 @@
     },
     {
       "id": 18,
-      "name": "Taker",
+      "name": "Lgrteee",
       "breed": "Toy Terrier",
-      "sex": "male"
+      "sex": "female"
     },
     {
       "id": 19,
